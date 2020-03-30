@@ -1,0 +1,5 @@
+{
+  "eslint.validate": ["javascript", "javascriptreact", "vue", "typescript", "typescriptreact"],
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
+}
